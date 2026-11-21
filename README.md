@@ -1,6 +1,6 @@
 # OBELIX: Autonomous Warehouse Robot (CS780 Capstone)
 
-**Course:** CS780 — Deep Reinforcement Learning (IIT Kanpur)  
+**Course:** CS780 : Deep Reinforcement Learning (IIT Kanpur)  
 **Advisor:** Prof. Ashutosh Modi  
 **Author:** Khush Maheshwari (`khushmahes23@iitk.ac.in`)
 
